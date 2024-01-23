@@ -1,0 +1,36 @@
+
+.letra  {
+    color: #ffffff;
+}
+.navbar{
+    background-color: #000 !important
+}
+.btn-white{
+
+    border-color: rgb(182, 207, 207) !important
+}
+.item{
+    background-color: #000 !important;
+    color: white !important;
+}
+.item:hover {
+    color: white !important ; 
+    cursor: pointer;
+}
+item.clicked {
+    /* Estilos cuando se hace clic */
+    color: white !important;
+
+}
+main {
+    flex: 1; /* Hace que el contenido principal ocupe todo el espacio restante */
+    padding: 20px;
+}
+
+footer {
+
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
